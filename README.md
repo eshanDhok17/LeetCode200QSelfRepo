@@ -1,2 +1,2 @@
 # LeetCode200QSelfRepo
-My leetcode solutions repository.
+solve 3 leetcode questions/day any difficulty.
